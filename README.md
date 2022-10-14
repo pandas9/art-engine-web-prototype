@@ -5,4 +5,8 @@
 Majority of functions aren't implemented and build output is pregenerated repository serving as execution concept
 
 # Run Locally
-test
+Clone github project and inside project root folder run following commands <br />
+1. `composer install` <br />
+2. `npm install` <br />
+3. `npx mix` <br />
+4. `php artisan serve` <br />
