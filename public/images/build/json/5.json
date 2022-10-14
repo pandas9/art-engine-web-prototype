@@ -1,0 +1,40 @@
+{
+  "dna": "6acaaf6cee72c893c9f6a9d056955a606285cdd06ae34a238aee6ad65eba5f38",
+  "name": "Series 2 #5",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/5.png",
+  "imageHash": "4eb90bd38837a6954caf0bee73847184bd2c80aed5d5b830d63dcd348b50e1ad",
+  "edition": 5,
+  "date": 1665759768896,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "stars"
+    },
+    {
+      "trait_type": "Back Accessory",
+      "value": "Backpack"
+    },
+    {
+      "trait_type": "Head",
+      "value": "faceB"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "floral"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "eyesa"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clippingexample_0003_purplehair"
+    },
+    {
+      "trait_type": "Shirt Accessories",
+      "value": "nametag"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

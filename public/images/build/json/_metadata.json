@@ -1,0 +1,406 @@
+[
+  {
+    "dna": "675ea08c366e8bc130c3d6c6fb758e9d02b8709bcfb9286eb7fd5ce26fae0cd9",
+    "name": "Series 2 #0",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://NewUriToReplace/0.png",
+    "imageHash": "dac875af0ee14698ea0e22673d3c9d8e5413636eab0bf576df9ef657df78ba4b",
+    "edition": 0,
+    "date": 1665759767171,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "swirl"
+      },
+      {
+        "trait_type": "Back Accessory",
+        "value": "rockets"
+      },
+      {
+        "trait_type": "Head",
+        "value": "faceA"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Shirt three"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "eyesa"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Clippingexample_0002_bluehair"
+      },
+      {
+        "trait_type": "Shirt Accessories",
+        "value": "GOLDEN NECKLACE"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  },
+  {
+    "dna": "d9f38ab694bbc11b8560eb96a6bd68ac5100770022a3c1e94198fef5941c9e67",
+    "name": "Series 2 #1",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://NewUriToReplace/1.png",
+    "imageHash": "5a113a3f364d7b6092bfa7ea270de3c0be46bb1d38379b008a20c0bf732fa61a",
+    "edition": 1,
+    "date": 1665759767495,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "swirl"
+      },
+      {
+        "trait_type": "Back Accessory",
+        "value": "rockets"
+      },
+      {
+        "trait_type": "Head",
+        "value": "faceA"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "floral"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "eyesa"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Clippingexample_0002_bluehair"
+      },
+      {
+        "trait_type": "Shirt Accessories",
+        "value": "nametag"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  },
+  {
+    "dna": "1d1e4da54698d94021e13caf63589d0c53b183bfaa0a19b0d43f1fea5e1e5ee5",
+    "name": "Series 2 #2",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://NewUriToReplace/2.png",
+    "imageHash": "15901b0d7ccfc5a3dccc45bbe616021ecbfee7e5577d2fe99525c763ccc92b83",
+    "edition": 2,
+    "date": 1665759767887,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "swirl"
+      },
+      {
+        "trait_type": "Back Accessory",
+        "value": "Backpack"
+      },
+      {
+        "trait_type": "Head",
+        "value": "faceB"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Shirt three"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "eyesa"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Clippingexample_0002_bluehair"
+      },
+      {
+        "trait_type": "Shirt Accessories",
+        "value": "GOLDEN NECKLACE"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  },
+  {
+    "dna": "5c95de291ea8f85b78b54fd05b6e756cfd58dce86347ae20fe9a5c9485a5438d",
+    "name": "Series 2 #3",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://NewUriToReplace/3.png",
+    "imageHash": "32d7b149588a794649552e26f5d887fce67e4aab7dd94b066babeed54bfc6e77",
+    "edition": 3,
+    "date": 1665759768258,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "swirl"
+      },
+      {
+        "trait_type": "Back Accessory",
+        "value": "rockets"
+      },
+      {
+        "trait_type": "Head",
+        "value": "faceA"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Shirt three"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "eyesa"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Clippingexample_0003_purplehair"
+      },
+      {
+        "trait_type": "Shirt Accessories",
+        "value": "nametag"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  },
+  {
+    "dna": "a9c2b89fe82aafc44e1351d6f634b5e3b4c79913d13b7019825e2649e863e384",
+    "name": "Series 2 #4",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://NewUriToReplace/4.png",
+    "imageHash": "eafc68dadc53ad10c5db4ed56d7b8bfd92d82de4db2ce8924d5477124843d843",
+    "edition": 4,
+    "date": 1665759768591,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "swirl"
+      },
+      {
+        "trait_type": "Back Accessory",
+        "value": "rockets"
+      },
+      {
+        "trait_type": "Head",
+        "value": "faceB"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "floral"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "eyesa"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Clippingexample_0002_bluehair"
+      },
+      {
+        "trait_type": "Shirt Accessories",
+        "value": "nametag"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  },
+  {
+    "dna": "6acaaf6cee72c893c9f6a9d056955a606285cdd06ae34a238aee6ad65eba5f38",
+    "name": "Series 2 #5",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://NewUriToReplace/5.png",
+    "imageHash": "4eb90bd38837a6954caf0bee73847184bd2c80aed5d5b830d63dcd348b50e1ad",
+    "edition": 5,
+    "date": 1665759768896,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "stars"
+      },
+      {
+        "trait_type": "Back Accessory",
+        "value": "Backpack"
+      },
+      {
+        "trait_type": "Head",
+        "value": "faceB"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "floral"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "eyesa"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Clippingexample_0003_purplehair"
+      },
+      {
+        "trait_type": "Shirt Accessories",
+        "value": "nametag"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  },
+  {
+    "dna": "ec98d1892a70be6038d6c767134a8feabd3f799f7877f62d707de90d03bab528",
+    "name": "Series 2 #6",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://NewUriToReplace/6.png",
+    "imageHash": "500f6adc531ec14a94c74b44b9711e3faee2bd2a69544e4b8d62a6f9fa3be611",
+    "edition": 6,
+    "date": 1665759769253,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "swirl"
+      },
+      {
+        "trait_type": "Back Accessory",
+        "value": "Backpack"
+      },
+      {
+        "trait_type": "Head",
+        "value": "faceA"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "floral"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "eyesa"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Clippingexample_0003_purplehair"
+      },
+      {
+        "trait_type": "Shirt Accessories",
+        "value": "GOLDEN NECKLACE"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  },
+  {
+    "dna": "c4302fa56fc5f22a1d835042399e58d981fa56208988c15cae88ce13ce8e6ebe",
+    "name": "Series 2 #7",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://NewUriToReplace/7.png",
+    "imageHash": "a88f1bd7a9754e9f294594510e767de3f4abdb1a275b8e17d8c6c67c20107f53",
+    "edition": 7,
+    "date": 1665759769583,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "coulds"
+      },
+      {
+        "trait_type": "Back Accessory",
+        "value": "Backpack"
+      },
+      {
+        "trait_type": "Head",
+        "value": "faceB"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Shirt three"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "eyesa"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Clippingexample_0003_purplehair"
+      },
+      {
+        "trait_type": "Shirt Accessories",
+        "value": "GOLDEN NECKLACE"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  },
+  {
+    "dna": "1fa09b4980d9da5aa5d0890dd6ef418fc85a40105a84eaf02b8eb38ba53541df",
+    "name": "Series 2 #8",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://NewUriToReplace/8.png",
+    "imageHash": "a73e4a106f6be5dc24cc75b90726e591b5b03f14b9687fc7aecdaf46da75f96d",
+    "edition": 8,
+    "date": 1665759769932,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "swirl"
+      },
+      {
+        "trait_type": "Back Accessory",
+        "value": "Backpack"
+      },
+      {
+        "trait_type": "Head",
+        "value": "faceA"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "shirt two"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "eyesa"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Clippingexample_0002_bluehair"
+      },
+      {
+        "trait_type": "Shirt Accessories",
+        "value": "nametag"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  },
+  {
+    "dna": "191fee90f76cf85c3fdf3d9bd1d91420c1df984ecd9526c99c42814698eb1023",
+    "name": "Series 2 #9",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://NewUriToReplace/9.png",
+    "imageHash": "cfd9c3d66f1a7fe308541165a70e8110e30724565823206f615b3a276dd76e79",
+    "edition": 9,
+    "date": 1665759770312,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "stars"
+      },
+      {
+        "trait_type": "Back Accessory",
+        "value": "Backpack"
+      },
+      {
+        "trait_type": "Head",
+        "value": "faceB"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Shirt three"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "eyesa"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Clippingexample_0003_purplehair"
+      },
+      {
+        "trait_type": "Head Accessory",
+        "value": "Space Helmet"
+      },
+      {
+        "trait_type": "Shirt Accessories",
+        "value": "GOLDEN NECKLACE"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  }
+]
